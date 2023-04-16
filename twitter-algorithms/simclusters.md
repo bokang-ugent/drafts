@@ -147,10 +147,10 @@
 * Python implementation + simulation?
 
 #### References
-[1] Twitter's Recommendation Algorithm, Twitter Engineering Blog, 2023
-[2] Wu et al., SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter, KDD, 2023
-[3] https://github.com/twitter/sbf
-[4] https://github.com/twitter/the-algorithm
-[5] https://github.com/twitter/the-algorithm/blob/main/src/scala/com/twitter/simclusters_v2/README.md
-[6] Sharma et al., When Hashes Met Wedges: A Distributed Algorithm for Finding High Similarity, WWW, 2017
-[7] Recht et al., Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent, NeurIPS, 2011
+* [1] Twitter's Recommendation Algorithm, Twitter Engineering Blog, 2023
+* [2] Wu et al., SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter, KDD, 2023
+* [3] https://github.com/twitter/sbf
+* [4] https://github.com/twitter/the-algorithm
+* [5] https://github.com/twitter/the-algorithm/blob/main/src/scala/com/twitter/simclusters_v2/README.md
+* [6] Sharma et al., When Hashes Met Wedges: A Distributed Algorithm for Finding High Similarity, WWW, 2017
+* [7] Recht et al., Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent, NeurIPS, 2011
